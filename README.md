@@ -1,3 +1,3 @@
 # schoolmanagement
 
-flutter + <Rest Api> + Django
+flutter + Rest Api + Django
